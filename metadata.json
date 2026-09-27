@@ -1,0 +1,6 @@
+{
+  "name": "DEK SANTRI - Poskestren Al Amien Kediri",
+  "description": "Digitalisasi Pengelolaan Data dan Riwayat Kesehatan Santri Berbasis Teknologi Informasi di Poskestren Al Amien Kediri",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
